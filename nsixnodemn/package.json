@@ -1,0 +1,15 @@
+{
+  "name": "nsixnodemn",
+  "version": "1.0.0",
+  "description": " the packges for Nodemon moduls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js "
+  },
+  "author": "Abu Sayed",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
